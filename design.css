@@ -1,0 +1,25 @@
+body{
+background:linear-gradient(to bottom,orange,white,orange);
+text-align:center;
+font-size:2em;
+line-spacing:0.5;
+}
+header{
+background-color:gold;
+text-align:center;
+height:270px;
+margin:auto;
+}
+.pheader{
+font-size:30px;
+}
+nav a{
+font-color:white;
+padding:20px;
+text-decoration:none;
+}
+nav a:hover{
+background-color:black;
+}
+</style>
+<
